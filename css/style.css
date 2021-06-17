@@ -1,0 +1,110 @@
+.centered{
+    text-align: center;
+}
+
+
+.head120{
+   height: 470px;
+    width: 100%;
+    background-image: url("../images/header-bg.jpg");
+
+}
+
+.headsub120{
+    margin-top: 100px;
+    font-size: 70px;
+    color: white;
+    font-weight: 400;
+}
+
+.headsub121{
+    font-size: 70px;
+    color: white;
+    font-weight: 400;
+}
+
+.headsub122{
+   color: white;
+    font-weight: 700;
+   font-size: 40;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.des123{
+    height: 320px;
+}
+
+.lwork{
+
+    background-color: #e0e0e0;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+.lwork1{
+
+
+    background-repeat: no-repeat;
+}
+
+.lwork2{
+
+
+    background-repeat: no-repeat;
+}
+
+.lwork3{
+
+    background-repeat: no-repeat;
+}
+
+.design1{
+
+    text-align: center;
+
+}
+
+.design2{
+    margin-top: 80px;
+}
+
+.design3{
+    margin-bottom: 65px;
+}
+
+.awesomeclient{
+    background-color: #e0e0e0;
+}
+
+.awesomeclient1{
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+.foot1{
+    background-color: red;
+    text-align: center;
+    color: white;
+
+}
+
+.footsub1{
+    margin-top: -15px;
+}
+
+.footsub2{
+    margin-bottom: 55px;
+}
+
+.foot{
+    background-color: black;
+
+}
+
+.fa-facebook-official{
+    font-size: 150px;
+    color: mintcream;
+
+}
